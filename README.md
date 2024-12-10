@@ -5,15 +5,15 @@ Estoy familiarizado principalmente con el desarrollo en Visual Studio Code.
 
 ## 🔭 En qué estoy trabajando
 
-Actualmente, estoy trabajando en expandir mis habilidades y construir proyectos prácticos para mejorar mis capacidades como Fullstack Java. 
+Actualmente, estoy trabajando en mejorar mis habilidades como FrontEnd y expandir mis capacidades para llegar a FullStack. 
 
 ## 🌱 Aprendizaje y Desarrollo
 
-Como egresado reciente del bootcamp, tengo muchas ganas de seguir aprendiendo y creciendo como desarrollador. Mi próximo paso es adentrarme en el mundo de React y Angular para ampliar mis conocimientos en el desarrollo frontend. Estoy emocionado por aprender nuevas tecnologías y aplicarlas en proyectos interesantes.
+Como egresado reciente del bootcamp, tengo muchas ganas de seguir aprendiendo y creciendo como desarrollador. Mi próximo paso es adentrarme en el mundo de React y Angular para ampliar mis conocimientos en el desarrollo FrontEnd. Estoy emocionado por aprender nuevas tecnologías y aplicarlas en proyectos interesantes. Junto con expandir mi portafolio de habilidades con el fin de llegar a FullStack developer.
 
 ## 👯‍♀️ Colaboremos
 
-Me apasiona colaborar con otros en proyectos interesantes. 
+Me apasiona colaborar con otros en proyectos interesantes ya sea en forma de comisión o colaborador. 
 
 ## 📫 Contáctame
 
@@ -31,6 +31,6 @@ Me apasiona colaborar con otros en proyectos interesantes.
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub! Estoy emocionado/a por un emocionante viaje en el desarrollo de software y hacer contribuciones significativas a la comunidad tecnológica. ¡Vamos a codificar y crear algo asombroso! 🚀
+¡Gracias por visitar mi perfil de GitHub! Estoy emocionado por iniciar este viaje creativo y contribuir al mundo del desarrollo!  🚀
 ---
 
